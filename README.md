@@ -17,3 +17,5 @@ SPACEBAR  -> change arrow' type
 
 ENTER     -> restart the map
 
+
+Right-Click on screen opens a menu. Here you can configure buttons and other preferences. It is based on the BGB emulator.
